@@ -1,0 +1,12 @@
+.venv/
+data/raw/
+data/processed/
+results/checkpoints/
+results/*/test_predictions.npz
+logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/processed_interim/
+results_interim/checkpoints/
+results_interim/*/test_predictions.npz
